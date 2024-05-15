@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics, Artificial Intelligence and Medicine
 - 🌱 I’m currently learning Deep Learning for Medicine
 - 💞️ I’m looking to collaborate on AI stuff
-- 📫 How to reach me andexpouni@gmail.cm
+- 📫 How to reach me andexpouni@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The hairdryer noise relaxes me
 
